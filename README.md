@@ -28,13 +28,13 @@ and metrics like ROC, Precision Recall are calculated
 
 Accuracies obtained using various classification algorithmns are :
 
-Logistic Regression : 0.9822470817120622
+| Method | Accuracy |
+|--|--|
+| Logistic Regression | 0.9822470817120622 |
+| Decision Tree | 0.9897859922178989 |
+| SVM | 0.9868677042801557 |
+| Random Forest | 0.9922178988326849 |
+| KNN | 0.9761673151750972 |
 
-Decision Tree : 0.9897859922178989
 
-SVM : 0.9868677042801557 
-
-Random Forest : 0.9922178988326849
-
-KNN : 0.9761673151750972
 
